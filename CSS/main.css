@@ -1,0 +1,29 @@
+section{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 48rem;
+    background-color: #E5E5E5;
+}
+
+.container{
+    width: 70%;
+    height: 35rem;
+    background-color: #fff;
+    display: flex;
+}
+
+.log-part{
+    width: 50%;
+}
+
+.log-col{
+    background-image: url(../Components/bg-pic.svg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.statistic{
+
+}
