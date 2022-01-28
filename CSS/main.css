@@ -109,3 +109,32 @@ position: absolute;
 .icons{
     position: absolute;
 }
+
+.whatsapp{
+    position: relative;
+    left: 24vh;
+}
+
+.whatsapp img{
+    width: 5vh;
+}
+
+.messenger{
+    position: relative;
+    left: 14vh;
+    top: 18vh;
+}
+
+.messenger img{
+    width: 12vh;
+}
+
+.twitter{
+    position: relative;
+    top: 28vh;
+    left: 48vh;
+}
+
+.twitter img{
+    width: 5vh;
+}
