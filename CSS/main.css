@@ -25,5 +25,83 @@ section{
 }
 
 .statistic{
+position: absolute;
+}
 
+.statistic img{
+    position: relative;
+    width: 13rem;
+    top: 15rem;
+    left: 13vh;
+}
+
+.all-form{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 10vh;
+    padding-left: 21vh;
+}
+
+.pic-prof {
+    position: relative;
+    padding: 4px 14px;
+    width: 15vh;
+    background-color: #fff;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.pic-prof img{
+    width: 11vh;
+    border-radius: 40%;
+}
+
+.pic-prof h1{
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+    margin: 10px 0;
+}
+
+.caption-det h5{
+    font-size: 10px;
+    margin: 0;
+    padding: 0;
+    color: rgb(207, 207, 207);
+    text-align: center;
+    margin-top: 10px;
+}
+
+.caption-det p{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.script-text{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.scrip{
+    padding-top: 8rem;
+    color: white;
+    text-align: center;
+    width: 10rem;
+}
+
+.scrip h1{
+    font-size: 16px;
+    line-height: 1.3;
+}
+
+.scrip p{
+    font-size: 9px;
+    line-height: 1.3;
+    color: rgb(230, 230, 230);
 }
